@@ -1,3 +1,11 @@
+
+Mobile: 
+
+![Screen Shot 2020-03-06 at 6 22 40 PM](https://user-images.githubusercontent.com/43420527/76148000-42607a00-605f-11ea-895a-f1f8b10ec4d5.png)
+
+Desktop: 
+![Screen Shot 2020-03-06 at 6 22 26 PM](https://user-images.githubusercontent.com/43420527/76148001-4391a700-605f-11ea-84ad-be7b59149e86.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
